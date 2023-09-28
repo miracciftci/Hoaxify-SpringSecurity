@@ -7,7 +7,7 @@ I wrote the backend of the project in two different packaging patterns
 - package By Layer
 
 
-#Used technologies
+# Used technologies
 - React
 - Spring Boot
 - Spring Security
