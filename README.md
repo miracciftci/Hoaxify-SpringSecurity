@@ -1,4 +1,4 @@
-# hoaxify-SpringSecurity
+# Hoaxify-SpringSecurity
 
 A project mainly focused on Spring security, with Java-Spring in the backend, where users log in and out from the interface.
 
